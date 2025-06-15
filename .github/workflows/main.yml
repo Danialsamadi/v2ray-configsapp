@@ -6,38 +6,38 @@ on:
     branches:
       - main
   schedule:
-    # Run every 9 minutes
-    - cron: "*/15 * * * *"
+    # Run every 15 minutes
+    - cron: "*/15 * * * *"  # Fixed cron syntax
+  workflow_dispatch:  # Allow manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
-
+      uses: actions/checkout@v4  # Updated to v4
+      
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4  # Updated to v4
       with:
         python-version: '3.11'
-
-    - name: Install dependencies
+        
+    - name: Install dependencies  
       run: cd Files && pip install -r requirements.txt
-
+      
     - name: Run Python script and save output to file
       run: cd Files && python app.py
       
     - name: Run Splitter script and save output to file
       run: cd Files && python sort.py
-
+      
     - name: Commit and push files
-      uses: EndBug/add-and-commit@v7
+      uses: EndBug/add-and-commit@v9  # Updated to v9 to fix deprecation warnings
       with:
-        author_name: "Epodonios"
-        author_email: "epodonios@github.com"
+        author_name: "Danialsamadi"  # Changed to your username
+        author_email: "danialsamadi@github.com"  # Changed to your email
         message: "Fresh🔥❤️‍🔥🎆"
         add: "."
-        push: "https://github.com/Epodonios/v2ray-configs.git"
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Removed the explicit push URL - let it use the default repository
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
