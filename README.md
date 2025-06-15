@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/barry-far/V2ray-Configs.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)  [![Update Configs](https://github.com/barry-far/V2ray-Configs/actions/workflows/main.yml/badge.svg)]([https://github.com/Epodonios/V2ray-Configs](https://github.com/Danialsamadi/v2ray-configsapp)/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/Epodonios/V2ray-Configs)  
+![GitHub last commit](https://img.shields.io/github/last-commit/barry-far/V2ray-Configs.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![Update Configs](https://github.com/Danialsamadi/v2ray-configsapp/actions/workflows/main.yml/badge.svg)](https://github.com/Danialsamadi/v2ray-configsapp/actions/workflows/main.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/Epodonios/V2ray-Configs)
 
 
 # Bulk V2ray Configs
