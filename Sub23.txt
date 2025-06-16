@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+trojan://9kHuEbiX7Bcp@104.21.71.8:2053?security=tls&sni=khabaronline.itn24.ir&type=ws&host=khabaronline.itn24.ir&path=/рЯЖФ@M3HDIO1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.71.8:2053
+trojan://bpb-trojan@101.69.122.104:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net#🔒 TR-WS-TLS 🇨🇳 CN-101.69.122.104:443
+trojan://redfree8@104.17.147.22:443?sni=ipsychO.SUEx12.Ir&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.147.22:443
+trojan://Aimer@162.159.128.157:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.128.157:443
+trojan://ksCDo3aEam@172.67.141.68:443?security=tls&sni=tabnak.itn24.ir&type=ws&host=tabnak.itn24.ir&path=/51759/@M3HDIO1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.141.68:443
+trojan://1c5b4508-7f18-47bf-9bce-e7ec19fb31cb@104.21.32.242:443?security=tls&sni=dddfghnju.890604.dpdns.org&type=ws&host=dddfghnju.890604.dpdns.org&path=%2FAqI89g7rmh6dX7cJaQmgEe&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.32.242:443
+trojan://Aimer@104.16.8.113:443?sni=epcch.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.8.113:443
 trojan://Aimer@104.16.34.159:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.34.159:443
 trojan://c97cf46e-1554-36cb-8b36-c3556b883dc4@104.21.70.125:443?type=ws&path=/92024db4-eadf-4cd1-b7e5-87d047d353f0#🔒 TR-WS-NA 🏴‍☠️ NA-104.21.70.125:443
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.228.229:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.228.229:443
@@ -496,10 +503,3 @@ trojan://Aimer@16.162.225.15:443?sni=epcco.ambercc.filegear-sg.me#🔒 TR-TCP-NA
 trojan://Aimer@172.67.75.98:443?sni=epccx.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.75.98:443
 trojan://Aimer@104.16.48.180:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.48.180:443
 trojan://Aimer@172.67.158.71:443?sni=epccx.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.158.71:443
-trojan://2734c14b-e4ce-48b3-b3de-f80788cb4c47@104.21.84.58:443?security=tls&sni=XXXcddDe.IRaN2035.dpdNs.orG&type=ws&host=xxxcddde.iran2035.dpdns.org&path=%2FbdtuD5eD7Q29WxRG8DqNAB&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.84.58:443
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.106:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.106:2053
-trojan://Aimer@104.26.6.95:443?sni=epccg.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.6.95:443
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.174:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.121.174:2053
-trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@172.67.136.117:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.136.117:443
-trojan://Aimer@104.19.145.74:443?sni=epcch.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.145.74:443
-trojan://c97cf46e-1554-36cb-8b36-c3556b883dc4@172.67.175.149:443?sni=fr2a.88888806.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.175.149:443
