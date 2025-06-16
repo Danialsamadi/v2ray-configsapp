@@ -141,7 +141,7 @@ def main():
     num_files = (num_lines + max_lines_per_file - 1) // max_lines_per_file
 
     for i in range(num_files):
-        profile_title = f"🆓 Git:Epodonios | Sub{i+1} 🔥"
+        profile_title = f"🆓 Git:Jungle Ghost | Sub{i+1} 🔥"
         encoded_title = base64.b64encode(profile_title.encode()).decode()
         custom_fixed_text = f"""#profile-title: base64:{encoded_title}
 #profile-update-interval: 1
