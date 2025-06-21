@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://3f789164-ca20-4041-89c0-bc553819970c@45.150.174.84:8443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-45.150.174.84:8443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.18.33.12:443?security=tls&sni=edmx.ambercc.filegear-sg.me&type=ws&host=edmx.ambercc.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.33.12:443
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-45.82.251.141:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.174.138.232:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🔒 VL-WS-NA 🇷🇺 RU-185.174.138.232:8880
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.245.225:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-5.10.245.225:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@176.124.223.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇷🇺 RU-176.124.223.29:8880
@@ -500,6 +503,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?security=none&ty
 vless://4d877e02-e49f-47d3-a542-42b568ceee02@104.26.11.147:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.11.147:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@104.129.164.14:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.164.14:8880
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.17:443?security=tls&sni=bn.ylks0033.dpdns.org&type=ws&host=bn.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇿🇦 ZA-160.123.255.17:443
-vless://f30b6745-cb70-214a-078b-d15edc51df4f@188.245.80.54:2083?security=tls&sni=germenynaran.studentcp.ir&type=tcp&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-TCP-TLS 🇩🇪 DE-188.245.80.54:2083
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.142:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.142:80
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.211:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.211:8880

@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://176d590c-6cb2-46e4-a3db-c63f18a1e3ab@178.239.150.221:8821?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.150.221:8821
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.197.121.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-154.197.121.63:8880
+vless://f411e405-da5e-47aa-93bb-8454c6f59ae1@104.21.44.185:443?security=tls&sni=eXPResstV.onETwothreE123.IR&type=httpupgrade&host=expresstv.onetwothree123.ir&path=%2Fm3PXEz1aEnAZ7wba2GqlkGpBhZ&fp=chrome&alpn=http%2F1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.44.185:443
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.201:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.201:80
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.206.12.140:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-154.206.12.140:443
 vless://28d0b5a5-4b1b-48e0-951e-be6da2566996@188.121.118.153:9070?security=none&type=tcp&path=%2Fpath&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.121.118.153:9070
@@ -500,6 +503,3 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.173:443?security=tls&sn
 vless://fa050497-fc2a-45ee-89c0-96670c4ecb65@172.67.218.209:443?security=tls&sni=pPP0.89890604.xYZ&type=ws&host=ppp0.89890604.xyz&path=%2F0USILhLWoWgQPuXTwt&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.209:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@94.247.142.19:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-94.247.142.19:8880
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.61:443?security=tls&sni=23sPT.pAGEs.dEV&type=ws&host=23spt.pages.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.61:443
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.211.48:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.211.48:2096
-vless://691a1a29-5b35-4fc0-80be-6d7ad1e00c15@142.250.189.174:443?security=tls&sni=google.com&type=grpc&serviceName=vl%3Fed%3D2560&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-142.250.189.174:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@178.128.6.121:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-178.128.6.121:8880

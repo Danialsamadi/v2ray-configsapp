@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇦🇲 AM-185.162.229.20:8880
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.158:80?security=none&sni=redfree8.pooriashop.ir&type=ws&host=redfree8.pooriashop.ir&path=Telegram@WangCai2/?ed#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.158:80
+vless://db655400-3b76-5530-a13b-b908b691484b@138.124.31.187:443?security=tls&sni=fr.vless.comnpmjs.com&type=ws&host=fr.vless.comnpmjs.com&path=/vless#🔒 VL-WS-TLS 🇫🇷 FR-138.124.31.187:443
 vless://d12e7198-95d4-41f1-b4d2-a94a1ee28546@45.149.12.254:8443?security=tls&sni=kanal-ma-falcunargo.2bddce6dfd.workers.dev&type=ws&host=kanal-ma-falcunargo.2bddce6dfd.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇳🇱 NL-45.149.12.254:8443
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.210.206:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=/&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-45.131.210.206:8443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.165.216.14:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-108.165.216.14:8880
@@ -500,6 +503,3 @@ vless://fbbf3b87-5f9d-4358-8a40-3cf9ab653321@104.21.1.12:8443?security=tls&sni=m
 vless://03ae39fd-ec71-4db5-b234-94de99a6e514@188.114.97.177:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.177:443
 vless://ad1357bd-a1ce-4977-ae09-47411d2d1eee@172.67.214.110:443?security=tls&sni=deg.iranasanejesh.org&type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.110:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.68.157:80?type=ws&host=REEdfREe8MahSaNg2.rEDOrG.IR&path=%2Fvpnowl%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.68.157:80
-vless://176d590c-6cb2-46e4-a3db-c63f18a1e3ab@178.239.150.221:8821?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.150.221:8821
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.197.121.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-154.197.121.63:8880
-vless://f411e405-da5e-47aa-93bb-8454c6f59ae1@104.21.44.185:443?security=tls&sni=eXPResstV.onETwothreE123.IR&type=httpupgrade&host=expresstv.onetwothree123.ir&path=%2Fm3PXEz1aEnAZ7wba2GqlkGpBhZ&fp=chrome&alpn=http%2F1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.44.185:443
