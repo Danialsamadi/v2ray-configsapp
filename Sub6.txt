@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.167:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.167:8880
+vless://2ed5065e-e9cd-4602-bcc6-d863505bf44a@172.67.187.18:8443?security=tls&sni=panel.proxystore11.news&type=grpc&serviceName=panel.proxystore11.news&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.187.18:8443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.88.201:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇱🇺 LU-188.42.88.201:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.194.53.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-45.194.53.63:8880
 vless://f366e744-abcd-4b5b-bd5e-2bd97b6443bf@45.131.5.244:2086?security=none&type=ws&host=fva64rbmjfkfznnptk6imz6sihrno35m4csom83admge5tfxniwduyuyt954fdh.ks3om.workers.Dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.5.244:2086
@@ -501,5 +503,3 @@ vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.8:80?security=none&type
 vless://53bea386-912e-4fe3-9eff-59c2285a176c@[2606:4700:3030::6815:5001]:2053?security=tls&sni=9.neshaan.org&type=ws&host=9.neshaan.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-[2606:4700:3030::6815:5001]:2053
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.7.226:2052?sni=huajuan.yzcjd.workers.dev&type=ws&host=huajuan.yzcjd.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.7.226:2052
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@89.116.180.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇱🇹 LT-89.116.180.247:8880
-vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@104.18.6.190:2096?security=tls&sni=verina.cantarella.dns-dynamic.net&type=ws&host=verina.cantarella.dns-dynamic.net&path=%2Fproxyip%3Drobin.yaemiko.ggff.net&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.6.190:2096
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.33.87.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇨🇾 CY-193.33.87.29:8880

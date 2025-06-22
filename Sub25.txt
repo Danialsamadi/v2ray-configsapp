@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.13.45.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-195.13.45.29:8880
+vless://4aaa5edf-da3c-5c87-adb6-74431bf98ba2@104.17.147.210:2052?security=none&type=ws&host=sPeedtest2.sbs.tr1.vless.sitespeedtest.net&path=%2Fvless%23%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.210:2052
 vless://3d2cbfd1-b6ef-49fb-8fc3-c1623c66da59@104.16.0.77:80?type=ws&host=us2.xyxy.dpdns.org&path=%2Fgb5xvq6h#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.0.77:80
 vless://1d828176-751a-2700-6a53-08129bd4db2b@85.133.250.90:443?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.250.90:443
 vless://6484f053-9cca-4f0c-9995-1aaf257f6294@37.27.250.128:1523?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.250.128:1523
@@ -501,5 +503,3 @@ vless://4f56794f-91bf-453b-be71-5b39f870ec30@109.122.241.43:56679?type=tcp&host=
 vless://e89e29b5-9a0c-4a22-b51c-b4c2a9586828@162.159.195.67:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.67:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@66.225.252.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇺🇸 US-66.225.252.213:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.212:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.212:80
-vless://17606d29-e77d-4d2c-81ac-81b8bb1311d1@146.235.208.162:443?security=tls&flow=xtls-rprx-vision-udp443&sni=dcpqjs.yydjc.top&fp=ios&allowInsecure=0#🔒 VL-TCP-TLS 🇺🇸 US-146.235.208.162:443
-vless://33061624-3968-4931-8edc-ea62191ab0c8@146.75.78.133:80?security=none&type=xhttp&host=biyatovistavdoray.com.&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048#🔒 VL-XHTTP-NONE 🇺🇸 US-146.75.78.133:80

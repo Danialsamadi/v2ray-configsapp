@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://ed447de4-ebd3-4f1c-8339-c084e06ec588@62.60.156.57:443?security=tls&sni=ez.ez0535.com&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇫🇷 FR-62.60.156.57:443
+vless://1d173704-d5cc-4ce2-8b06-3a9a71037530@104.18.13.149:443?security=tls&sni=rayan-army.foton.dpdns.org&type=ws&host=rayan-army.foton.dpdns.org&path=/?ed%3D2560&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.13.149:443
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.84:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇩🇪 DE-45.150.174.84:443
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@104.239.72.248:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇬🇧 GB-104.239.72.248:8880
 vless://376a9a81-13de-4afd-ad75-8a19074cb3a7@109.120.186.86:7091?type=tcp&host=bmw.com&headerType=http#🔒 VL-TCP-NA 🇬🇧 GB-109.120.186.86:7091
@@ -501,5 +503,3 @@ vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@104.21.211.74:443?security=tls&sni=
 vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:1616?security=none&type=ws&host=zula.ir&path=/#🔒 VL-WS-NONE 🇮🇷 IR-46.100.13.17:1616
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.159.247.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇪🇪 EE-185.159.247.247:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.248:80?type=ws&host=psycho.suex12.ir&path=/Telegram@WangCai2#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.248:80
-vless://c88b1fb9-e2dd-4713-b670-a84aae1386be@188.114.97.112:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.112:443
-vless://6ff4726f-3650-4803-95eb-50b240f6ac75@104.24.186.156:80?security=none&type=ws&host=red-math-7092-ppal03.mewoco2522.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.186.156:80
