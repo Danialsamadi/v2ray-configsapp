@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@172.67.145.200:443?security=tls&sni=Rrr4.8906004.xYZ&type=ws&host=rrr4.8906004.xyz&path=%2FDZxb5QZyWgQPuXTwt&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.145.200:443
+trojan://90e7b2f3-fb61-4fd7-959f-176e9a51d8d7@13.114.50.167:20230?security=tls&sni=jp006.421421.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-13.114.50.167:20230
 trojan://HdihUYuf%2672826%3A33%2B4hshdiu%266562%2B2%3BJvsjdjr@104.17.147.22:2096?security=tls&sni=NEt-ACCounT1.pAGEs.Dev&type=ws&host=net-account1.pages.dev&path=%2FtrNrffpXBCqDOiLjok%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:2096
 trojan://Aimer@112.161.49.84:11681?sni=epmq.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-112.161.49.84:11681
 trojan://ttfang@13.228.155.72:443?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F&allowInsecure=1#🔒 TR-WS-TLS 🇸🇬 SG-13.228.155.72:443
@@ -501,5 +503,3 @@ trojan://Aimer@162.159.128.104:443?sni=epccu.ambercc.filegear-sg.me#🔒 TR-TCP-
 trojan://telegram-id-v2rayvpnchannel@13.50.115.177:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.115.177:22222
 trojan://bcc58e88-e147-11ec-b286-f23c91cfbbc9@183.240.180.16:21233?security=tls&sni=83242d49-sy41s0-szh3gf-ggww.cm5.cnkuaishou.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇳 CN-183.240.180.16:21233
 trojan://Aimer@104.18.8.36:443?sni=epccg.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.8.36:443
-trojan://c21b972a-bc92-4f8c-8e6a-6868001f7f88@141.193.213.17:443?security=tls&sni=uk8i7uufxlcbr2hbym.jjjiedian6j4tblb.com&type=ws&host=uk8i7uufxlcbr2hbym.jjjiedian6j4tblb.com&path=/images#🔒 TR-WS-TLS 🇺🇸 US-141.193.213.17:443
-trojan://2b1ed981-6547-4094-998b-06a3323d6f6c@120.233.44.201:21079?sni=k32.tudou211.com&allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-120.233.44.201:21079
