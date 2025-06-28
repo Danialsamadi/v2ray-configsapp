@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.221.160.110:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-185.221.160.110:8880
-vless://a268ce39-7687-4817-aa5f-def4f653fb88@104.24.231.66:443?sni=cf.501508.xyz&type=ws&host=cf.501508.xyz&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.231.66:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?security=none&type=ws&host=redw.pooriam.ir#🔒 VL-WS-NONE 🇵🇭 PH-154.83.2.156:8880
 vless://3f789164-ca20-4041-89c0-bc553819970c@91.238.82.242:8443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-91.238.82.242:8443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.49.136:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.49.136:443
@@ -503,3 +501,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.101:8880?sni=us.laoyoutia
 vless://99727208-0086-43f9-f0ad-9e30f546b822@104.129.164.98:8880?type=httpupgrade&host=hamidjon.ddigicyber.click.&path=%2F%252Ftelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NA 🇺🇸 US-104.129.164.98:8880
 vless://55520747-311e-4015-83ce-be46e2060ce3@162.159.152.81:443?security=tls&sni=nv.bgm2024.dpdns.org&type=ws&host=nv.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.81:443
 vless://5453ae26-250d-4e79-b4ec-016baf806865@172.67.149.43:443?security=tls&sni=7d33510a-5dA0-4F85-b1d5-5321a9eaA72a.890603.pP.uA&type=ws&host=7d33510a-5da0-4f85-b1d5-5321a9eaa72a.890603.pp.ua&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.149.43:443
+vless://fea99d38-e028-4178-ad4a-ef5540e5c8ba@104.17.147.22:2083?security=tls&sni=mYwEBpaN.114514660.xYz&type=ws&host=mywebpan.114514660.xyz&path=%2Fmc3kdwfXwv3LgetS%2FdHMuaHBjLnR3%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.147.22:2083
+vless://ed447de4-ebd3-4f1c-8339-c084e06ec588@156.238.19.96:443?security=tls&sni=ez.ez0535.com&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇭🇰 HK-156.238.19.96:443

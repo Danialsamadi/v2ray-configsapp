@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@104.129.167.59:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-104.129.167.59:8880
-vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@104.25.254.188:2096?security=tls&sni=forward333.maryam1500.top&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.188:2096
 vless://953d71f0-9241-4903-95b4-cce61e90015e@91.99.150.156:5969?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.150.156:5969
 vless://463dab82-af4f-4b16-8f05-36bd1c71477b@188.114.96.3:2096?security=tls&sni=JOiNmAHDisERVeR-Sh8.paGEs.DeV&type=ws&host=joinmahdiserver-sh8.pages.dev&path=%2F3iSRXE0aYaBPlNOF%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.3:2096
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@45.142.120.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-45.142.120.13:8880
@@ -503,3 +501,5 @@ vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.170:2096?security=tls&sn
 vless://d9b3f928-88f5-4951-8f81-a66422b982c3@172.67.141.68:2087?security=tls&sni=tabnak.ITN24.IR&type=grpc&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.141.68:2087
 vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@104.21.48.1:2086?security=none&type=ws&path=speedtest.net#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.48.1:2086
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.85.117:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.85.117:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.148.106.219:80?type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#🔒 VL-WS-NA 🇷🇺 RU-185.148.106.219:80
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.53.191.49:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇮 SI-92.53.191.49:8880
