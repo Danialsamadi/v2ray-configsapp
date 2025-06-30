@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2TURSRU1rSklOa1JNTjFwTFZGaFlWQQ==@ti3hyra4.slashdevslashnetslashtun.net:16013#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VEZKVFdVNVhSVWxJVUU0MFFrRldTQQ==@8tv68qhq.slashdevslashnetslashtun.net:16014#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WmpobU4yRkRlbU5RUzJKelJqaHdNdw==@103.163.218.2:989#%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@103.245.229.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#AE_speednode_0001
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@103.245.228.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#AE_speednode_0002
@@ -501,5 +503,3 @@ vmess://ewogICAgImFkZCI6ICI4MzgyMWU4ZC1zdjhjZzAtc3ZleWV5LTQ0azQuaGszLnA1cHYuY29t
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#%F0%9F%87%B3%F0%9F%87%B1NL-89.23.103.125-0440
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#%F0%9F%87%AD%F0%9F%87%B7HR-46.183.184.60-0434
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#%F0%9F%87%A8%F0%9F%87%B4CO-154.223.16.212-0433
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#%F0%9F%87%BA%F0%9F%87%B8US-166.1.157.228-0461
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#%F0%9F%87%A8%F0%9F%87%BECY-134.255.210.49-0443
