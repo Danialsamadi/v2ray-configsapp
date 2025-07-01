@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.152.2:2087?security=tls&sni=6KzZjDtHwN.rAmAzAn2.InFo&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.152.2:2087
 vless://2a85418f-9f38-433f-8180-9a269965d93b@172.67.204.84:2083?security=tls&sni=armanestan.adamakdns.shop&type=xhttp&path=%2Fadamak_vpn&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-172.67.204.84:2083
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.18.94.107:443?security=tls&sni=vs.ylka.dpdns.org&type=ws&host=vs.ylka.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.94.107:443
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.81:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-45.150.174.81:443
@@ -503,3 +502,4 @@ vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:50137?security=none&ty
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.164.158.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇦🇲 AM-188.164.158.213:8880
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.88:443?security=tls&sni=ls.bgm2024.dpdns.org&type=ws&host=ls.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.88:443
 vless://5f0b488f-c3e1-5db0-a236-070455375af1@194.147.35.250:2052?security=none&type=grpc&serviceName=vless-grpc&sid=%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#🔒 VL-GRPC-NONE 🇷🇺 RU-194.147.35.250:2052
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@188.244.122.251:8880?security=none&type=ws&host=0926.qiang2000.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🔒 VL-WS-NONE 🇩🇪 DE-188.244.122.251:8880

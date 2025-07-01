@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@77.221.142.34:443?security=tls&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&allowInsecure=0#🔒 VL-WS-TLS 🇸🇪 SE-77.221.142.34:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@46.232.54.100:443?security=tls&sni=edfgk.aimercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇯🇵 JP-46.232.54.100:443
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.26:443?sni=vc.ylka.dpdns.org&type=ws&host=vc.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇧🇷 BR-185.133.35.26:443
 vless://ee74773d-d4bd-4d55-9984-8a51be0b66a8@104.16.199.75:2096?sni=abc.jaiven.dedyn.io&type=ws&host=abc.jaiven.dedyn.io&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.199.75:2096
@@ -503,3 +502,4 @@ vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@104.21.16.1:2086?security=none&type
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@194.36.55.243:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.243:443
 vless://8df60790-c903-4661-b85d-64c0009378e5@104.19.120.225:443?security=tls&sni=F1.paRsa.fiLegEar-Sg.Me&type=ws&host=f1.parsa.filegear-sg.me&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.120.225:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@147.185.161.131:80?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Channel&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-147.185.161.131:80
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@162.159.152.2:2087?security=tls&sni=6KzZjDtHwN.rAmAzAn2.InFo&type=grpc&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.152.2:2087

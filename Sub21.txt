@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://293dbd19-eaec-43f0-dcde-2944af021dd4@154.206.12.216:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-154.206.12.216:8880
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@46.254.92.254:8880?type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🔒 VL-WS-NA 🇷🇺 RU-46.254.92.254:8880
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.7.107:2096?security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&type=ws&host=LhCgBjGr29.vElTrIxS.OrG&path=/&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🇳🇱 NL-45.131.7.107:2096
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.33.87.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇨🇾 CY-193.33.87.63:8880
@@ -503,3 +502,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.76.18.63:8880?sni=jp.laoyoutiao
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@45.80.108.206:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.108.206:8880
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.38.63:80?security=none&sni=tannaz.juveitaly.dpdns.org&type=ws&host=tannaz.juveitaly.dpdns.org&path=%2FBaRAyeIran%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.38.63:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@130.250.137.63:2083?security=tls&sni=edccr.aimercc.filegear-sg.me&type=ws&host=edccr.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒 VL-WS-TLS 🇺🇸 US-130.250.137.63:2083
+vless://6501e93f-a458-4f3d-81bd-2f1e58c2bc3b@172.67.149.210:443?security=tls&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv&type=ws&host=7xvb-b9ws5zjp6cyjvw89zrku9gmupw6.maryafarhuni.workers.dev&path=%2FwwtrfZKsmiJjvu6S%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.149.210:443

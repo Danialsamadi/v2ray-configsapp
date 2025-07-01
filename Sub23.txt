@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.20.103:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.20.103:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.95:80?security=none&type=ws&host=ipsycho.suex12.ir&path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560#🔒 VL-WS-NONE 🇦🇺 AU-103.169.142.95:80
 vless://9466263a-4b8e-4647-99b2-d2a363f001cd@122.248.219.62:443?security=tls&flow=xtls-rprx-vision-udp443&sni=iosapps.itunes.apple.com&fp=chrome&allowInsecure=0#🔒 VL-TCP-TLS 🇸🇬 SG-122.248.219.62:443
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.135.9.254:8880?sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇩🇪 DE-185.135.9.254:8880
@@ -503,3 +502,4 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@102.177.189.39:8880?security=none&t
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@45.81.58.38:8880?type=ws&host=bitget1.asdasd.click&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇱🇹 LT-45.81.58.38:8880
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.86:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-45.150.174.86:443
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.26.10.81:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.10.81:443
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@77.221.142.34:443?security=tls&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&allowInsecure=0#🔒 VL-WS-TLS 🇸🇪 SE-77.221.142.34:443
