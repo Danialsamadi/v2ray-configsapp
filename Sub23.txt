@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://3f789164-ca20-4041-89c0-bc553819970c@45.150.174.84:8443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-45.150.174.84:8443
 vless://59c70f20-100f-4e1d-aebd-02df489451df@85.133.234.80:443?security=none&type=tcp&host=www.p30day.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.234.80:443
 vless://18974b91-ddd9-48ad-b403-be9e5078e1cf@104.21.16.132:8880?type=httpupgrade&host=gr.v4.speedtest.com.fast.carmvm315.com#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.21.16.132:8880
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.96:443?sni=vz.bgm2024.us.kg&type=ws&host=vz.bgm2024.us.kg#🔒 VL-WS-NA 🇺🇸 US-63.141.128.96:443
@@ -502,4 +503,3 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@185.148.104.124:2096?security=tls&s
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@173.245.58.217:2087?security=tls&sni=a3.bewface-smart.rest&type=grpc&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.217:2087
 vless://f9fd5b50-ae7d-5f9a-82e8-b1a9633e682e@185.18.250.27:443?security=tls&sni=sany.sofia321.woRkers.DEV&type=ws&host=sany.sofia321.woRkers.DEV#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.27:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.209.1:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A#🔒 VL-WS-NONE 🇳🇱 NL-45.131.209.1:80
-vless://90765624-6fb5-49d6-ce81-2b1c10645319@172.67.202.155:8443?security=tls&sni=Freedomisnear.onetwothree123.ir&type=ws&host=Freedomisnear.onetwothree123.ir&path=%2Fmehdi&fp=random&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.202.155:8443
