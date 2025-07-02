@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@185.135.9.80:8880?security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2FTABRIZ.NET%2C+TABRIZ.NET%2C+TABRIZ.NET%2C+TABRIZ.NET%2C+TABRIZ.NET%2C+TABRIZ.NET%3Fed%3D2560#🔒 VL-WS-NONE 🇩🇪 DE-185.135.9.80:8880
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@45.142.120.190:443?security=tls&sni=Tp810P28gI.aNa-SoFt.Ir&type=grpc#🔒 VL-GRPC-TLS 🇷🇺 RU-45.142.120.190:443
 vless://38b4dd8c-e4f9-4b13-8124-b7092c2e6045@91.107.161.47:110?security=tls&sni=cdnjs.cloudflare.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇩🇪 DE-91.107.161.47:110
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.144.58:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.58:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.148.244:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.148.244:2095
@@ -501,5 +503,3 @@ vless://a268ce39-7687-4817-aa5f-def4f653fb88@199.34.228.186:443?sni=cf.501508.xy
 vless://b6775c28-f69c-448e-ae30-719cd21539da@172.66.47.173:2053?security=tls&sni=JoiNmaHdisERVER-GE4.pAgeS.DeV&type=ws&host=joinmahdiserver-ge4.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.173:2053
 vless://7b33f59f-aada-4b49-a4ac-1c335977f2af@172.67.71.122:2087?security=tls&sni=vless1-698.pages.dev&type=ws&host=vless1-698.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.122:2087
 vless://f9113568-93cd-4ac4-a1dd-b13b59d743be@104.26.13.8:8880?security=none&type=httpupgrade&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&path=%2F%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.13.8:8880
-vless://800a78d8-7ee3-442e-8ec2-e3309953dec3@119.202.158.65:15784?security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇰🇷 KR-119.202.158.65:15784
-vless://c8898cfd-9927-4f36-b7bc-40de76076b80@91.238.82.243:443?security=tls&flow=xtls-rprx-vision-udp443&sni=maviks.eu&fp=chrome#🔒 VL-TCP-TLS 🇩🇪 DE-91.238.82.243:443

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZmVmZDI4ZS1iMmU2LTQ0NjItYTM3OC1jYmM1OGE4NzQ4Zjk=@80.225.223.49:21451#🔒 SS-TCP-NA 🇮🇳 IN-80.225.223.49:21451
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@167.160.90.218:989#🔒 SS-TCP-NA 🇺🇸 US-167.160.90.218:989
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@23.247.137.159:2377#🔒 SS-TCP-NA 🇺🇸 US-23.247.137.159:2377
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnU0hiTlRLV3U0UUx4M2lNako3S0JT@203.25.108.78:44591#🔒 SS-TCP-NA 🇷🇴 RO-203.25.108.78:44591
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#🔒 SS-TCP-NA 🇺🇸 US-64.74.163.218:990
@@ -501,5 +503,3 @@ trojan://4c57a4f7-e137-4e0d-97c0-2f06bbcd2f2e@141.193.213.198:443?security=tls&t
 trojan://er668@104.21.16.1:443?sni=kfjdi.pages.dev#%E6%9C%AA%E7%9F%A571
 trojan://Aimer@104.21.236.132:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A572
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#%E6%9C%AA%E7%9F%A573%203.2MB%2Fs
-trojan://Aimer@154.17.228.203:443?sni=agepq.ambercc.filegear-sg.me#US8
-trojan://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:443?security=tls&type=ws&sni=app.soft10.ir&path=/rIQYIUFzZ8PfAZpXO7Ci&host=app.soft10.ir#%E6%9C%AA%E7%9F%A574

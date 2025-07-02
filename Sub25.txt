@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://a58921db-144e-45fd-97dd-101dc190cc2f@167.82.231.255:80?security=none&type=xhttp&host=joinZEDMODEONyour-name.global.ssl.fastly.net&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-XHTTP-NONE 🇩🇪 DE-167.82.231.255:80
+vless://2642c002-1f66-46fd-8e4c-a25bba373c98@104.21.13.16:2096?security=tls&sni=cantarella.yaechan.ip-ddns.com&type=ws&host=cantarella.yaechan.ip-ddns.com&path=%2Fproxyip%3Dcitlali.shorekeeper.ir&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.13.16:2096
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@103.133.1.120:8880?security=none&type=httpupgrade&host=S130.DdigicYber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-103.133.1.120:8880
 vless://be813f12-47ac-4b16-9146-8435ebacae3f@45.12.31.37:443?security=tls&sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.37:443
 vless://ed447de4-ebd3-4f1c-8339-c084e06ec588@185.193.29.37:443?security=tls&sni=ez.ez0535.com&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇬🇧 GB-185.193.29.37:443
@@ -501,5 +503,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.161.20:8880?sni=reedfree8mah
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@205.233.181.205:2096?security=tls&sni=DrOt0Ai1Oq.DeRaKhT.iNfO&type=ws&host=DrOt0Ai1Oq.DeRaKhT.iNfO#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.205:2096
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.158.62:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.158.62:443
 vless://15fad364-7af6-4403-9a7c-24c7201646ff@104.21.22.211:443?security=tls&sni=ddDDDdDDDddddDDFfF.taipEi108.DPDNS.Org&type=ws&host=dddddddddddddddfff.taipei108.dpdns.org&path=%2FISk6mbFfXf0Pa9zB9hTi5E8d&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.22.211:443
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.153.170:443?security=tls&sni=xv1.ylks0033.dpdns.org&type=ws&host=xv1.ylks0033.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.170:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.149:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇳🇱 NL-5.10.244.149:8880
