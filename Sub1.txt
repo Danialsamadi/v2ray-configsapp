@@ -471,7 +471,7 @@ hysteria2://dongtaiwang.com@45.129.2.108:50850?insecure=1&sni=www.bing.com#Teleg
 hysteria2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#%40drakvpn%F0%9F%90%89
 hysteria2://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@asg.pagate.top:10086?#%E6%9C%AA%E5%91%BD%E5%90%8D%20%237
 hysteria2://iMqY3uG_5pgEj3hCfyHB-0vB@143.198.235.49:443?insecure=1#%20%20%20DIGITALOCEAN-ASN
-hysteria2://nfsn666@45.207.222.138:8888?insecure=1&sni=hk.nfsn666.gq#%40vpnv2r4y%20%20%20%232
+hysteria2://nfsn666@45.207.222.138:8888?insecure=1&sni=hk.nfsn666.gq#%40meli_proxyy%20%234
 hysteria2://vlJbyJEtcNjHvV6dnkZ1Z4VjpI@13.212.75.22:10264?insecure=1&sni=bing.com#%E6%9C%AA%E5%91%BD%E5%90%8D%20%238
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%40V2rayNG3
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?insecure=0&sni=gb.gomeow.online#%40V2rayNG3%20%231
