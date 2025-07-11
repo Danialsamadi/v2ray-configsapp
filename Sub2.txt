@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@us.saigonfly.com:17627?insecure=0#%20%40game_file2020%20%2322
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@za.saigonfly.com:17132?insecure=0#%20%40game_file2020%20%2323
 hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@za.saigonfly.com:17297?insecure=0#%20%40game_file2020%20%2324
 hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@za.saigonfly.com:17365?insecure=0#%20%40game_file2020%20%2325
 hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@za.saigonfly.com:17412?insecure=0#%20%40game_file2020%20%2326
@@ -501,5 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:811#%F0%9F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:804#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.166-0133
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&sni=x1-germany-digitalocean-v2.devefun.org#%F0%9F%87%A9%F0%9F%87%AADE-104.248.18.1-0235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:801#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.18-0132
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:812#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.166-0131
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:810#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.18-0130
