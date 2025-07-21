@@ -3,6 +3,28 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTllzaFJiM216cDc=@93.152.207.167:443#N+%7C+%F0%9F%87%AB%F0%9F%87%AE+%7C+%40vpnfreak%60
+vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=&encryption=none&headerType=none&type=tcp#✅@v2ray_configs_pools
+vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.xhamster.biz.id:443?path=%2FFree-CF-Proxy-AT4&security=tls&encryption=none&host=web.xhamster.biz.id&type=ws&sni=web.xhamster.biz.id#opennet_ir
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880/?type=grpc&encryption=none#✅@v2ray_configs_pools
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none#✅@v2ray_configs_pools
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=RpNj8AtQfK.vPbEtHoRvP002.iNfO&alpn=h3%2Ch2&fp=chrome&type=ws&host=RpNj8AtQfK.vPbEtHoRvP002.iNfO&path=%2F#thor-shadmanegi_vpn-pri```
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880/?type=grpc&encryption=none#✅@v2ray_configs_pools
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?security=&encryption=none&type=grpc#✅@v2ray_configs_pools
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105%3D443&security=none#✅@v2ray_configs_pools
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#✅@v2ray_configs_pools
+trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?security=tls&headerType=none&type=tcp&sni=rc9.freeguard.org#✅@v2ray_configs_pools
+vless://5879d109-8c92-448a-801b-3f3989019934@69.84.182.2:443?path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&security=tls&encryption=none&host=tbs-80p.pages.dev&type=ws&sni=pages.dev#%40vpnv2r4y%F0%9F%A6%80
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram+%3A+%40V2RAYUSAIR`
+vless://70f8697b-f9f3-4692-8e0a-3d1834fd76dc@104.26.12.31:443?security=tls&encryption=none&host=64D78605.Fr-7rB.pageS.dEv&fp=chrome&type=ws&sni=64D78605.Fr-7rB.pageS.dEv#🍃
+vless://dc1985a0-76ce-486f-b571-4b210aadbc8c@server2.fergalvpnmod.com:59365?mode=gun&security=reality&encryption=none&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram%3A%40FergalVpnMod&sni=cloudflare.com&sid=1e#%40%E1%B4%85%E1%B4%80%C9%AA%CA%9F%CA%8F_%E1%B4%84%E1%B4%8F%C9%B4%EA%9C%B0%C9%AA%C9%A2%EA%9C%B1
+vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?path=%2FTelegram%40confingam%2F%3Fed%3D2560&security=tls&encryption=none&host=GgGgr.PaGES.dEV&fp=chrome&type=ws&sni=GgGgr.PaGES.dEV#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%3A%20%40V2rayTun0%F0%9F%97%BD
+vless://71705031-92d3-4dc5-8011-e48a59e6c88b@51.195.101.116:18702?security=reality&encryption=none&pbk=pbi5k9j7ugmPIwxxaYSI5cvkVwW7eaVRMrjjGlm8BwE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=afa469f10771#✅@v2ray_configs_pools
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#Telegram+%3A+%40V2RAYUSAIR`
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#%40%E1%B4%85%E1%B4%80%C9%AA%CA%9F%CA%8F_%E1%B4%84%E1%B4%8F%C9%B4%EA%9C%B0%C9%AA%C9%A2%EA%9C%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#Telegram+%3A+%40V2RAYUSAIR`
+vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=randomized&type=ws&sni=paS-kaLE-AGhA.pageS.deV#%40kinds_of_vibes%20%F0%9F%8E%B5`
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🇺🇸[@rat_leak]
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.165.101:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%AD%F0%9F%87%B0HK%20%7C%20@v2ray_configs_pools``
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=%2FV2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram+%3A+%40V2RAYUSAIR`
@@ -481,25 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTZAMTAzLjM2LjkxLjIzOjgzODg=#%F0%9F%87%B8%F0%9F
 vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HufCfh7xUVy0xMTEuMjQ3LjQxLjM1LTA5OTEiLAogICJhZGQiOiAic3Nzc3Nzc3N2YWUyLmpraGtnai54eXoiLAogICJwb3J0IjogODAsCiAgImlkIjogImUxNWFjM2NlLTZhMWEtNDEyYS1hYTA3LTRiYzUyZGFhNTkzNSIsCiAgImFpZCI6IDAsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogIndzIiwKICAidHlwZSI6IG51bGwsCiAgImhvc3QiOiAiZmlsZS5kaW5ndGFsay5jb20iLAogICJwYXRoIjogIi9tYXJrZXQvaGs/ZWQ9NTEyIiwKICAidGxzIjogZmFsc2UsCiAgInNuaSI6ICIiCn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFBQDE2MC4xOS43OC43NTo0NDM=#%F0%9F%87%BB%F0%9F%87%B3VN-160.19.78.75-0325
 trojan://xxoo@us.blazeppn.info:443?allowInsecure=1&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0307
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE4NS45My4xNzMuMjE4Ojk5MA==#%F0%9F%87%A7%F0%9F%87%B4BO-185.93.173.218-5235
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzNAOTQuMTMxLjIxLjE3NDo1NDA3NQ==#%F0%9F%87%BA%F0%9F%87%B8US-94.131.21.174-0334
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucTk2S2Z0clpBajNMdUZRRVNxbW40NE1vNW9DdW8yY2lwb0VzYWUyNW1ybUhHMm9KNFZUMzdzY0JmVkJwTjVEV3RVRUxadXRWaGhYczhMZTVCOGZaOWhMbjl5dHd2YmZAMjA4LjY3LjEwNS44Nzo0MjUwMQ==#%F0%9F%87%B3%F0%9F%87%B1NL-208.67.105.87-0330
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFBQGFyeGZ3MmI3OGZpMnE5aHp5bGhuLmZyZWVzb2Nrcy53b3JrOjQ0Mw==#%F0%9F%87%BB%F0%9F%87%B3VN-160.19.78.75-0328
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMzcuMTkuMTk4LjIzNjo0NDM=#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.236-0170
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AzOC41NC41Ny45MDo5ODk=#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-0322
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzNAYmV0YS5tYXR0ZW5hZGVuZS5vcmc6NTQwNzU=#%F0%9F%87%BA%F0%9F%87%B8US-94.131.21.174-0335
-vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HufCfh7xUVy0xMTEuMjQ3LjQxLjM1LTA5ODQiLAogICJhZGQiOiAidHdqeGxubm9sanhjMi5qa2hrZ2oueHl6IiwKICAicG9ydCI6IDgwLAogICJpZCI6ICJlMTVhYzNjZS02YTFhLTQxMmEtYWEwNy00YmM1MmRhYTU5MzUiLAogICJhaWQiOiAwLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiBudWxsLAogICJob3N0IjogImZpbGUuZGluZ3RhbGsuY29tIiwKICAicGF0aCI6ICIvbWFya2V0L3VzMT9lZD01MTIiLAogICJ0bHMiOiBmYWxzZSwKICAic25pIjogIiIKfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE4NS40Ny4yNTMuMjI3Ojk5MA==#%F0%9F%87%AA%F0%9F%87%A8EC-185.47.253.227-5095
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?allowInsecure=1&sni=rc6.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.23.229.250-0333
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxMDMuMTYzLjIxOC4yOjk4OQ==#%F0%9F%87%BB%F0%9F%87%B3VN-103.163.218.2-0311
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDQ1Ljg3LjE3NS42OTo4MDgw#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.69-0205
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxODUuMTIzLjEwMS4yNDE6OTg5#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0331
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE4NS4xMjMuMTAxLjI0MTo5OTA=#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0332
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcEZpZU1UNlNvYnBxUmlLRmVmdll1N2VYazk5WGZDZVdmanBudHpTaDgxRmZNeDlSN3JKVzZMVG16SDc4U3RURWhDZDd3MzJaTXhiR0paUzk4Z3BuMW96cjlqQWJNb2FAMTg1LjUuMzguMTExOjU1OTg4#%F0%9F%87%AC%F0%9F%87%A7GB-185.5.38.111-0338
-vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HufCfh7xUVy0xMTEuMjQ3LjQxLjM1LTA5NzkiLAogICJhZGQiOiAidHdqeGxubm9sanhjMi5qa2hrZ2oueHl6IiwKICAicG9ydCI6IDgwLAogICJpZCI6ICJlMTVhYzNjZS02YTFhLTQxMmEtYWEwNy00YmM1MmRhYTU5MzUiLAogICJhaWQiOiAwLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiBudWxsLAogICJob3N0IjogImZpbGUuZGluZ3RhbGsuY29tIiwKICAicGF0aCI6ICIvbWFya2V0L2VzP2VkPTUxMiIsCiAgInRscyI6IGZhbHNlLAogICJzbmkiOiAiIgp9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4QDIxMy4xMDkuMTQ3LjI0Mjo2MjY4NQ==#%F0%9F%87%B3%F0%9F%87%B1NL-213.109.147.242-0319
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWRUYlllOTFKS1pzanZLTEhvWTlybjlydVlFNDUzNzdXanRVM200a21YUVpEWGlIQkpzZ1ZmaG1wYXdFb0d2cTlAbXgyLmRyYXducmlzaGEub25lOjU1OTg4#%F0%9F%87%AC%F0%9F%87%A7GB-185.5.38.111-0337
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGpAZXhjaGFuZ2UuZ2FtZWF1cmVsYS5jbGljazo1Mjk1Mg==#%F0%9F%87%B3%F0%9F%87%B1NL-141.98.4.67-0340
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAyMTguMjM3LjE4NS4yMzA6NDY1Mg==#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-0326
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzExQDEwMy4xMTEuMTE0LjI5OjU3NDU2#%F0%9F%87%AE%F0%9F%87%B3IN-103.111.114.29-0323
-vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HufCfh7xUVy0xMTEuMjQ3LjQxLjM1LTA5NTQiLAogICJhZGQiOiAidHdqeGxubm9sanhjMi5qa2hrZ2oueHl6IiwKICAicG9ydCI6IDgwLAogICJpZCI6ICJlMTVhYzNjZS02YTFhLTQxMmEtYWEwNy00YmM1MmRhYTU5MzUiLAogICJhaWQiOiAwLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiBudWxsLAogICJob3N0IjogImZpbGUuZGluZ3RhbGsuY29tIiwKICAicGF0aCI6ICIvbWFya2V0L3R3P2VkPTUxMiIsCiAgInRscyI6IGZhbHNlLAogICJzbmkiOiAiIgp9

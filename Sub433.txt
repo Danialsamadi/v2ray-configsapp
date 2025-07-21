@@ -4,6 +4,28 @@
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
 
+hysteria2://250a274b-d8dd-4bb3-a4a6-79a596f4e5e3@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A300%20GB
+
+hysteria2://250a274b-d8dd-4bb3-a4a6-79a596f4e5e3@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-17
+
+hysteria2://250a274b-d8dd-4bb3-a4a6-79a596f4e5e3@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A30%20%E5%A4%A9
+
+hysteria2://250a274b-d8dd-4bb3-a4a6-79a596f4e5e3@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E9%A6%99%E6%B8%AF
+
+hysteria2://250a274b-d8dd-4bb3-a4a6-79a596f4e5e3@nexiayg.688997.xyz:20657/?insecure=1&sni=nexiayg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E8%8B%B1%E5%9B%BD
+
+hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
+
+hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:44594/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@23.132.228.217:52281/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
+hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
+
+hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:44594/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@23.132.228.217:52281/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:44594/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
@@ -481,25 +503,3 @@ vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443/?type=ws&encryptio
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053/?type=ws&encryption=none&flow=&host=nOCTYq.pAGES.DEV&path=%2Fbpj4mgkjba7cny7q%3Fed%3D2560fp%3Dchrome&security=tls&sni=nOCTYq.pAGES.DEV#%F0%9F%8E%B542%40oneclickvpnkeys`
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=&encryption=none&type=grpc#Telegram%3A%20%40v2node
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#Telegram%3A%20%40v2node
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=%2F&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&fp=chrome&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#🍃
-vless://d7860fa9-32ce-4795-ae62-1af2d4928966@at7.fastlanehosting.ru:443?security=reality&encryption=none&pbk=etC3r7NO8hTwPFv_WGJrUEmCoPqrfG-FEJ-QpN0kjlk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=geizhals.at&sid=b1d0d1b677#%F0%9F%87%A6%F0%9F%87%B9Austria`
-vless://5bb2f5d4-8555-4638-90e7-462f59365517@nl7.fastlanehosting.ru:443?security=reality&encryption=none&pbk=pSnQPTV7975vhNh83dHdXEyvCJiiTqYxpDY638xy9SI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=marktplaats.nl&sid=9e#%F0%9F%87%B3%F0%9F%87%B1Netherlands`
-vless://e904b3fe-646b-4329-92a2-b51ebfcc1678@de7.fastlanehosting.ru:18443?security=reality&encryption=none&pbk=5MoISEffv0LHn8VsNwUDI3rH69HlO4uYLGNP0rhs_hI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=023339ae39f6b6d8#%F0%9F%87%A9%F0%9F%87%AAGermany`
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@104.18.12.149:443?encryption=none&security=tls&sni=rayan-09.leila.dpdns.org&fp=chrome&type=ws&host=rayan-09.leila.dpdns.org&path=%2F%40Rayan_Config#%40Daily_Configs
-vless://60882caa-4e74-42a2-be70-220755fc1551@104.19.173.68:443?encryption=none&security=tls&sni=rayan-olala.parvaneh.dpdns.org&type=ws&host=rayan-olala.parvaneh.dpdns.org&path=%2F%3Fed%3D2560#%40Daily_Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTc2NzIxYS1lMzkwLTRkYmYtYjRmOS03MmMzZmViOTU5NGM%3D@45.76.180.205:31298#%F0%9F%91%89%20%40Hddify%20%7C%7C%20%DA%86%D9%86%D9%84%20%D9%87%D8%AF%DB%8C%D9%81%D8%A7%DB%8C%20%F0%9F%8D%84`
-vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.18.141.40:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#Telegram%3A%20%40v2node
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@162.159.244.47:8880?path=%2F1ycR2zb3KeELWRha%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram+%3A+%40V2RAYUSAIR`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#Telegram%3A%20%40v2node
-vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.18.26.90:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=randomized&type=ws&sni=ensHOLP-91s.pageS.DEv#Telegram%3A%20%40v2node
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v6.waipdirect.shop:8880?encryption=none&security=none&sni=pqh24v6.waipdirect.shop&type=grpc#✅v2ray_configs_pools
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%86%94%40kaanfing
-ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#🍃
-vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&type=ws&sni=ensHOLP-91s.pageS.DEv#%F0%9F%86%94%40kaanfing
-vless://3130e111-a06c-4388-aeda-4b43f6e8e51f@104.26.13.31:443?encryption=none&security=tls&sni=FinLAnd-A3r.pAgES.dEv&type=ws&host=finland-a3r.pages.dev&path=%2F#✅@v2ray_configs_pools
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.8.72:8880?path=%2FxJkTf9LbDDDSO3Hv%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#%D8%B1%D8%A8%D8%A7%D8%AA%20%D9%85%D8%A7%20%3Av2rayfree_proxybot%20%D8%AD%D8%AA%D9%85%D8%A7%20%D8%B3%D8%B1%20%D8%A8%D8%B2%D9%86%DB%8C%D8%AF%F0%9F%9A%80
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?path=%2F34COh9NCiin5SJMk%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#%D8%B1%D8%A8%D8%A7%D8%AA%20%D9%85%D8%A7%20%3Av2rayfree_proxybot%20%D8%AD%D8%AA%D9%85%D8%A7%20%D8%B3%D8%B1%20%D8%A8%D8%B2%D9%86%DB%8C%D8%AF%F0%9F%9A%80`
-vless://4b60fbf1-6a49-4f80-bc09-899607143a8a@192.46.223.20:2321?security=&type=tcp&encryption=none#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20@v2ray_configs_pools`
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?encryption=none&security=none&type=grpc#%40mobilesignal%F0%9F%87%AB%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Hiva%20Asadi%20%E2%9D%93`
-vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s&sid=a31a8d04622560&type=tcp&headerType=none#%40Daily_Configs
