@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://63fbc23e-4a02-5baf-89ba-0fe5dd6e98fd@lu-2-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lu-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20LU%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+
+vless://655bc20a-e826-56f6-9868-96f8f89c7f4b@at-1-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=at-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20AT%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+
+vless://655bc20a-e826-56f6-9868-96f8f89c7f4b@www.speedtest.net:443?security=tls&sni=at-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=at-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20AT%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+
+vless://665f22b8-167a-50df-a941-981d38bfdfca@ee-1-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ee-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20EE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+
+vless://665f22b8-167a-50df-a941-981d38bfdfca@www.speedtest.net:443?security=tls&sni=ee-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ee-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20EE%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
 vless://779c9240-701f-4295-8af6-2dda4a6c318c@se-1-rvp.medicaldream.ir:443?security=tls&sni=se-1-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=se-1-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20SE%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
@@ -494,12 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:805#%F0%9F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:810#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0153
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:800#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.18-0152
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.129-0201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:806#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.18-0151
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.152:800#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.152-0150
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:803#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.164-0149
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.152:805#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.152-0148
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:812#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.18-0147
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:803#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0146
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:806#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.164-0145
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:811#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.164-0144
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:806#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0143

@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=chrome&type=ws&sni=tannaz.juveitaly.dpdns.org#@bad_raqs
+vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&type=ws#@V2RAYNG_1378
+vless://dfe016f3-2ff9-401a-a373-75422528f681@t2.vipfastconnect.top:2299?security=&encryption=none&host=tgju.org&headerType=http&type=tcp#@varn_Net
+vless://dfe016f3-2ff9-401a-a373-75422528f681@t2.vipfastconnect.top:2299?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@vmesskhodam)تلگراممو
+vless://dfe016f3-2ff9-401a-a373-75422528f681@t2.vipfastconnect.top:2299?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://dfe4a8e3-609b-43f1-92d3-9921d09b875f@specxtech.ticketdatabase.info:53055?mode=auto&path=dfe4a8e3-609b-43f1-92d3-9921d09b875f-xh&security=reality&encryption=none&pbk=kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=15a19f76#🇩🇪 @SpecXtech
+vless://dfe4a8e3-609b-43f1-92d3-9921d09b875f@specxtech.ticketdatabase.info:56658?security=reality&encryption=none&pbk=kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=15a19f76#🇩🇪 @SpecXtech
+vless://dfe4a8e3-609b-43f1-92d3-9921d09b875f@specxtech.ticketdatabase.info:56658?security=reality&encryption=none&pbk=kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=15a19f76#🇩🇪 | @External_Net
+vless://dfe4a8e3-609b-43f1-92d3-9921d09b875f@specxtech.ticketdatabase.info:56658?security=reality&encryption=none&pbk=kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=15a19f76#@MARAMBASHI 🐳🇺🇸
 vless://dfe4a8e3-609b-43f1-92d3-9921d09b875f@specxtech.ticketdatabase.info:56658?security=reality&encryption=none&pbk=kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=15a19f76#آلمان 🇩🇪 @V2xay
 vless://doogrlsuwa@doogrlsuwa-4515017477-direct.rahavard365.co:443?security=tls&alpn=http/1.1&encryption=none&path=/vpn&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=doogrlsuwa-4515017477-direct.rahavard365.co#@EVAY_VPN
 vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
@@ -494,12 +503,3 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeE
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=&encryption=none=&host=VngSuPpLY.IP-Ddns.com&type=ws#@icv2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=&encryption=none=&host=VngSuPpLY.IP-Ddns.com&type=ws#Telegram:@config_proxy 🔥
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=VngSuPpLY.IP-Ddns.com&type=ws#@TEHRANARGO
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#@HIBYEVPNN
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#@HiByeVPNN
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#@Merlin_ViP
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#@Merlin_ViP TTT
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#@Selinc
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#@V2RAYROZ
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#@V2ray_confing33
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
