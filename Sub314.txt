@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#🇬🇧 @FreakConfig 🟥 آموزش استفاده  |⬜️ برنامه مورد نیاز  •🟦نیازمند نصب آخرین نسخه
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@35.176.197.229:443#@V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443#@Selinc
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443#🇬🇧 @FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443#🇬🇧 @FreakConfig • قابل استفاده : 📷🎥💙 | • همه اپراتورها  @FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.158.124.20:443#@EXPRESSVPN_420
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.158.56.123:443#@MOFT_VPN کانال
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.158.56.123:443#Telegram 🆔️Alfa_v2ray_ng 😎
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443#@Moft_VPn کانال
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443#@Selinc
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443#@V2RAY1_NG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443#@config_v2ray_vpn👈سرورهای‌ بیشتر
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443#Telegram 🆔️Alfa_v2ray_ng 😎
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.250.233.247:443?type=tcp#@FREE_VPN02
@@ -492,14 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@2.59.163.105:2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@91.238.123.46:2222#✅@v2ray_configs_pools
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyS3hjdXNoWnFtN05URlZLU1hCd2Q5@83.217.9.88:443#ترکیه 🇹🇷 @V2xay
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpybmRxMDJ3U05wQmdFUXJ3bzFFcThz@38.180.11.120:8443#Power🔥@antimeli-AllNet-🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzM0FSMEFCbU5PeXpzbmVFZkdYczRx@89.46.239.99:8443#Power🔥@antimeli-AllNet-🇮🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzMVoyUzJTckdqVU1LS2N6MDllLzlzcExucmo1dEtXK2xjVCtjRStxYk5FPQ==@157.180.127.73:39069#@ATOVPN🇫🇮
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzMVoyUzJTckdqVU1LS2N6MDllLzlzcExucmo1dEtXK2xjVCtjRStxYk5FPQ==@157.180.127.73:39069#azadiiivpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzMVoyUzJTckdqVU1LS2N6MDllLzlzcExucmo1dEtXK2xjVCtjRStxYk5FPQ@157.180.127.73:39069#@Am20094 🇫🇮
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzVjZNVFdJS1RLaHViYnhEV3duVUJB@homa.cybsecguru.com:62005#@EmpireVpn7✅?serverDescription=77+977+9ZQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzeWJYOFROQWVWQ1k1YWZSdlZER1k1@185.195.65.134:8443#Power🔥@antimeli-AllNet-🇳🇱
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#⚜️Telegram@V2NET_IRAN
-ss://Y2hhY2hhMjAtcG9seTEzMDU6U2EvTXIxamhFYTFDbGNodEpZdVlia0c2QXZhSnhpdnRKMGU5eWMzZ0NjND0=@172.104.159.129:1011?type=tcp#کانفیگ های بیشتر در چنل @CONFIGT
-ss://YWVzLTEyOC1nY206NDA2ZTRlYTYtODQ0My00NWUyLWEzOTctNDk0MzY1Y2ExYmY4@bit-jp.03ezhg0qsa.download:12061#JP
-ss://YWVzLTEyOC1nY206T09TV0RZWFRTUldNVEFFSUo4WFVDRDI3UjJGMzg0T0RLVEhYRjQxWUxSVjQ=@185.112.32.244:31792#@CaV2ray ⚡️
-ss://YWVzLTEyOC1nY206T09TV0RZWFRTUldNVEFFSUo4WFVDRDI3UjJGMzg0T0RLVEhYRjQxWUxSVjQ=@185.112.32.244:31792#@Selinc

@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/Epodonios/v2ray-configs
 #profile-web-page-url: https://github.com/Epodonios/v2ray-configs
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#%3E%3E%40ShadowsocksM%3A%3AIN
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096/?path=%2F&security=tls&encryption=none&host=Tp34MzH9gR.vPbEtHoRvP002.iNfO&type=ws&sni=Tp34MzH9gR.vPbEtHoRvP002.iNfO#%3E%3E%40ShadowsocksM%3A%3ADE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@exchange.gameaurela.click:52952#%3E%3E%40ShadowsocksM%3A%3ANL
+vless://43e99f82-3f83-49d6-a625-2d420f6aa317@www.speedtest.net:80?security=none&type=ws&path=/Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs?ed%3D80&host=www.speedtest.net.c.1.avaacado.ir&packetEncoding=xudp&encryption=none#%3E%3E%40ShadowsocksM%3A%3ADE
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880/?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#%3E%3E%40ShadowsocksM%3A%3AUS
+vless://cbfbc5e3-4b53-4854-931e-c9ac61719636@104.24.0.137:8080/?path=%2Fkhkdjhsd%3Fed%3D2048&security=none&encryption=none&host=in2772.novintecc.ORG.&type=httpupgrade#%3E%3E%40ShadowsocksM%3A%3ANL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR1U1Wg==@ca.opensocks.site:8388#%3E%3E%40ShadowsocksM%3A%3ACA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR1U1Wg==@ca.opensocks.site:1443#%3E%3E%40ShadowsocksM%3A%3ACA
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096/?path=%2F&security=tls&encryption=none&host=DcQu6VaQaY.vPbEtHoRvP002.iNfO&type=ws&sni=DcQu6VaQaY.vPbEtHoRvP002.iNfO#%3E%3E%40ShadowsocksM%3A%3ANL
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880/?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozVG5RZGdtMm1WSlFidVNDWG1SNVZj@81.19.141.45:443#%3E%3E%40ShadowsocksM%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#%3E%3E%40ShadowsocksM%3A%3AES
 vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#%3E%3E%40ShadowsocksM%3A%3AFR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpseVc0THVEV0pnSERBbkMzWkRadHNW@81.19.141.45:443#%3E%3E%40ShadowsocksM%3A%3ADE
@@ -492,14 +503,3 @@ hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiaxg.688997.xyz:20057/?insec
 
 hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A30%20%E5%A4%A9
 
-hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E9%A6%99%E6%B8%AF
-
-hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiayg.688997.xyz:20657/?insecure=1&sni=nexiayg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E8%8B%B1%E5%9B%BD
-
-hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:44594/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@23.132.228.217:56824/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
